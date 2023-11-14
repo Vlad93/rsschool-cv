@@ -10,7 +10,6 @@
 * **Profile on freelance.ru:** [Vladsel](https://freelance.ru/vladsel)
 * **GitHub:** [Vlad93](https://github.com/Vlad93)
 
-
 ## Profile
 I am 30 years old. I am a former professional football player. 
 Now I strive to become a software engineer and devote most of my time to this. 
@@ -27,6 +26,7 @@ At the moment, my main goal is to fill the gaps in knowledge about the jS langua
 * ***Parcel***, ***Webpack***
 * ***Jest***, ***Cypress***
 * ***npm***
+* ***Prettier***, ***ESLint***
 * ***PHP***(*beginner*)
 * ***CMS WordPress***(*acf*, *WooCommerce*, *CF7*)
 
