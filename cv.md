@@ -7,6 +7,7 @@
 * **Telegram:** [Vladfutbik](https://t.me/vladfutbik)
 * **Instagram** [Vlad-Seluk](https://www.instagram.com/vladseluk)
 * **WhatsApp:** [+375 29 198-44-60](https://call.whatsapp.com/voice/vhzzdEKVpbh5MtTIK7XiqZ)
+* **Profile on freelance.ru:** [Vladsel](https://freelance.ru/vladsel)
 * **GitHub:** [Vlad93](https://github.com/Vlad93)
 
 
