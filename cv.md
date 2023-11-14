@@ -14,7 +14,7 @@
 I am 30 years old. I am a former professional football player. 
 Now I strive to become a software engineer and devote most of my time to this. 
 I took various courses, improved my skills, worked as a freelancer and continue to constantly learn something new.
-At the moment, my main goal is to fill the gaps in knowledge about the jS language and master the react library.
+At the moment, my main goal is to fill the gaps in knowledge about the JavaScript language and master the React library.
 
 ## Skills and Technologies
 * ***HTML***
