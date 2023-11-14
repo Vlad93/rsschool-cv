@@ -3,10 +3,10 @@
 ## **Contacts**
 * **Location:** Gomel, Belarus
 * **Email:** selukvlad@gmail.com
-* **Phone:** +375 29 198-44-60
+* **Phone:** +375(29)198-44-60
 * **Telegram:** [Vladfutbik](https://t.me/vladfutbik)
 * **Instagram** [Vlad-Seluk](https://www.instagram.com/vladseluk)
-* **WhatsApp:** [+375 29 198-44-60](https://call.whatsapp.com/voice/vhzzdEKVpbh5MtTIK7XiqZ)
+* **WhatsApp:** +375(29)198-44-60
 * **Profile on freelance.ru:** [Vladsel](https://freelance.ru/vladsel)
 * **GitHub:** [Vlad93](https://github.com/Vlad93)
 
