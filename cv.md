@@ -19,18 +19,12 @@ I took various courses, improved my skills, worked as a web developer(Wordpress 
 At the moment, my main goal is to fill the gaps in knowledge about the JavaScript language and master the React library.
 
 ## Skills and Technologies
-* ![HTML5](html.png "HTML5")***HTML5***
-* ![CSS](css.png "CSS")***CSS***
-* ![Sass](sass.png "Sass")***SASS***(*SCSS*)
-* ***BEM***
-* ![JS](js.png "JS")***JavaScript***
-* ![Gulp](gulp.png "Gulp")***GULP***
-* ![Vite](vite.png "Vite")***Vite***, ![Webpack](webpack.png "Webpack")***Webpack***
-* ![Jest](jest.png "Jest")***Jest***
-* ![Git](git.png "Git")***Git***
-* ![ESlint](lint.png "ESlint")***ESLint***
-* ![php](php.png "php")***PHP***
-* ![Wordpress](wps.png "Wordpress")***WordPress***
+![HTML5](html.png "HTML5") ![CSS](css.png "CSS") ![Sass](sass.png "Sass") ![JS](js.png "JS") ![php](php.png "php") ![Wordpress](wps.png "Wordpress")
+
+![Gulp](gulp.png "Gulp") ![Vite](vite.png "Vite") ![Webpack](webpack.png "Webpack") ![Git](git.png "Git")
+
+![Jest](jest.png "Jest") ![ESlint](lint.png "ESlint")
+
 
 ## Code Examples
 My solution of [Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec) Kata on CodeWars.
