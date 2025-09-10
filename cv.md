@@ -11,9 +11,8 @@
 * **GitHub:** [https://github.com/Vlad93](https://github.com/Vlad93)
 
 ## Profile
-I am 30 years old. I am a former professional football player. 
-Now I strive to become a software engineer and devote most of my time to this. 
-I took various courses, improved my skills, worked as a freelancer and continue to constantly learn something new.
+I am 31 years old. I am a former professional futsal player (Belarus National Team).
+I took various courses, improved my skills, worked as a web developer(Wordpress primally) and freelancer. Now I continue to constantly learn something new.
 At the moment, my main goal is to fill the gaps in knowledge about the JavaScript language and master the React library.
 
 ## Skills and Technologies
@@ -28,8 +27,8 @@ At the moment, my main goal is to fill the gaps in knowledge about the JavaScrip
 * ***npm***
 * ***Git***
 * ***Prettier***, ***ESLint***
-* ***PHP***(*beginner*)
-* ***CMS WordPress***(*acf*, *WooCommerce*, *CF7*)
+* ***PHP***
+* ***CMS WordPress***
 
 ## Code Examples
 My solution of [Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec) Kata on CodeWars.
