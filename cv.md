@@ -1,5 +1,5 @@
-![Vlad`s photo](vlad.jpg "Фото Влада")
 # **Uladzislau Sialiuk**
+![Vlad`s photo](vlad.jpg "Фото Влада")
 *****
 ## **Contacts**
 * **Location:** Homel, Belarus
@@ -13,7 +13,9 @@
 
 ## Profile
 I am 31 years old. I am a former professional futsal player (Belarus National Team).
+
 I took various courses, improved my skills, worked as a web developer(Wordpress primally) and freelancer. Now I continue to constantly learn something new.
+
 At the moment, my main goal is to fill the gaps in knowledge about the JavaScript language and master the React library.
 
 ## Skills and Technologies
