@@ -1,4 +1,4 @@
-# **Vladislav Seluk**
+# **Uladzislau Sialiuk**
 *****
 ## **Contacts**
 * **Location:** Gomel, Belarus
